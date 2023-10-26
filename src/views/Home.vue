@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <p class="my_lala">啦啦啦啦啦啦</p>
+    <p class="my_lala">测试一下CI/CD,咔咔咔</p>
     <img alt="Vue logo" src="../assets/logo.png" class="my_img"/>
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <van-button type="primary">主要按钮</van-button>
